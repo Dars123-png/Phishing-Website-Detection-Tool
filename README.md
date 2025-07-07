@@ -22,7 +22,7 @@ Provides a GUI with emojis and optional graphs to visualize results.
 | Optional Visualization | Accuracy chart or confusion matrix via matplotlib/seaborn.              |
 | Dataset Ready          | Tested on phishing + legitimate URLs from public datasets.              |
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.8+
 - Install dependencies with:
